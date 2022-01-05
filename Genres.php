@@ -1,5 +1,5 @@
 <?php
-
+fakyu
 namespace App;
 
 use Illuminate\Database\Eloquent\Model;
